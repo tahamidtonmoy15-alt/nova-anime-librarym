@@ -1,0 +1,3 @@
+NOVA Native Android Project v1.0.1
+APK NOT compiled in this environment (no Android SDK / network). First real compile = GitHub Actions run.
+Do not describe this package as a tested APK until the Actions build is green and installed on a phone.
